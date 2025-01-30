@@ -1,0 +1,20 @@
+{
+    "creators":
+    [
+        {
+            "affiliation": "Institute for Medical Informatics and Statistics (IMIS), Kiel University and University Hospital Schleswig-Holstein, Germany",
+            "name": "Kinast, Benjamin",
+            "orcid": "0000-0003-2554-4381"
+        }
+    ],
+    "description": "Lab Index Web Scraper for OPUS::L",
+    "keywords":
+    [
+        "Semantic Interoperability",
+        "HL7 FHIR",
+        "LOINC",
+        "Annotation"
+    ],
+    "title": "lablink",
+    "upload_type": "software"
+}
